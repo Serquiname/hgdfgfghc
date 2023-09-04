@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"content="Ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PGwind-Web</title>
+    <style>
+        body{
+            /*设置网页背景颜色*/
+        background-color:pink;
+        /* 设置字体颜色*/
+        color:black;
+    }
+    </style>
+</head>
+<body>
+    <!--设置网页背景照片-->
+    <body background="http://www.liveout.cn/wp.content/uploads/2023/09/wallhaven-g7olle_1920*1080.png"></body>
+    <!--大标题-->
+    <h1>欢迎浏览本页面</h1>
+    <P>这是一个托管于Github上的静态网页</P>
+    <a href="http:www.liveout.cn "target="balck"rel="noopener noreferrerr">点击进入我的个人博客</a><br>
+    <P>
+        个人邮箱
+        <a href="https://mail.qq.com"taeget="black"rel="noopener noreferrerr">big_fw@foxmail.com</a>
+    </P>
+</body>
+</html>
